@@ -1,7 +1,7 @@
 package com.gara;
 
-public class TestClass {
-	
+public class TestClass {	
+
 	String master1;
 
 	@Override
