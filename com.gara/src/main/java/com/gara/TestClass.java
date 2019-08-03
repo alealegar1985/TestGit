@@ -1,20 +1,8 @@
 package com.gara;
 
 public class TestClass {
-
-	String masterval4, masterval5, masterval6, masterval7;
-	public String val1,val2,val3;
-	public String master1, master2;
-	public String branch2, branch22,branch32, branch33,branch34;
 	
-	
-	public String getMasterval4() {
-		return masterval4;
-	}
-
-	public void setMasterval4(String masterval4) {
-		this.masterval4 = masterval4;
-	}
+	String master1;
 
 	@Override
 	protected Object clone() throws CloneNotSupportedException {
