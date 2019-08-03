@@ -6,7 +6,8 @@ public class TestClass {
 	public String val1,val2,val3;
 	public String master1, master2;
 	public String branch2, branch22,branch32, branch33,branch34;
-	
+	public String branchYYYY2;
+
 	
 	public String getMasterval4() {
 		return masterval4;
