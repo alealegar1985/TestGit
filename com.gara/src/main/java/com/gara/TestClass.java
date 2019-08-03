@@ -2,7 +2,7 @@ package com.gara;
 
 public class TestClass {
 
-	String masterval4;
+	String masterval4, masterval5, masterval6;
 	
 	public String getMasterval4() {
 		return masterval4;
