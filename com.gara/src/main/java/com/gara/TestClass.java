@@ -29,7 +29,7 @@ public class TestClass {
 	@Override
 	public String toString() {
 		// Master change
-		return super.toString();
+		return super.toString() ;
 	}
 
 }
