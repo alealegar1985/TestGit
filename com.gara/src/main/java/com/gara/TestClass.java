@@ -4,6 +4,7 @@ public class TestClass {
 
 	String masterval4, masterval5, masterval6, masterval7;
 	public String val1,val2,val3;
+	public String master1;
 	
 	public String getMasterval4() {
 		return masterval4;
