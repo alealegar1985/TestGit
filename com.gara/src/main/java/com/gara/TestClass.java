@@ -1,8 +1,9 @@
 package com.gara;
 
-public class TestClass {	
+public class TestClass {
 
 	String master1;
+	String b1;String b2;String b3;
 
 	@Override
 	protected Object clone() throws CloneNotSupportedException {
