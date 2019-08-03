@@ -2,6 +2,16 @@ package com.gara;
 
 public class TestClass {
 
+	String masterval4;
+	
+	public String getMasterval4() {
+		return masterval4;
+	}
+
+	public void setMasterval4(String masterval4) {
+		this.masterval4 = masterval4;
+	}
+
 	@Override
 	protected Object clone() throws CloneNotSupportedException {
 		// TODO Auto-generated method stub
