@@ -2,7 +2,7 @@ package com.gara;
 
 public class TestClass {
 
-	String master1;
+	String master1;String branch22;
 	String b1;String b2;String b3;
 
 	@Override
