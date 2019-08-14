@@ -2,7 +2,7 @@ package com.gara;
 
 public class TestClass {
 
-	String master1;String branch22;
+	String master1;String branch22;String branch23;String branch24;
 	String b1;String b2;String b3;
 
 	@Override
@@ -33,6 +33,14 @@ public class TestClass {
 	public String toString() {
 		// Master change 2
 		return super.toString() ;
+	}
+	
+	public String getBranch24() {
+		return branch24;
+	}
+
+	public void setBranch24(String branch24) {
+		this.branch24 = branch24;
 	}
 
 }
