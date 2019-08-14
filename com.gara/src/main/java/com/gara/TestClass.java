@@ -2,7 +2,7 @@ package com.gara;
 
 public class TestClass {
 
-	String master1;String branch22;String branch23;String branch24;
+	String master1;String branch22;String branch23;String branch24;String branch25;
 	String master2;
 	String b1;String b2;String b3; String b4;
 
