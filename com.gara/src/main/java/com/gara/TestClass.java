@@ -1,10 +1,17 @@
 package com.gara;
 
+import com.test.dependency.Calculator;
+
 public class TestClass {
 
 	String master1;String branch22;String branch23;String branch24;String branch25;
 	String master2;
 	String b1;String b2;String b3; String b4;
+	
+	private double summer(double a, double b) {
+		System.out.println(b);
+		return Calculator.sum(a,b);
+	}
 
 	@Override
 	protected Object clone() throws CloneNotSupportedException {

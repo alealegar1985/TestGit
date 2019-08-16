@@ -1,3 +1,21 @@
+<<<<<<< HEAD
 C:\Workspaces\personal-project2\TestGit\test.dependency\src\test\java\com\test\dependency\Test3Test.java
 C:\Workspaces\personal-project2\TestGit\test.dependency\src\test\java\com\test\dependency\Test2.java
 C:\Workspaces\personal-project2\TestGit\test.dependency\src\test\java\com\test\dependency\Test1.java
+=======
+<<<<<<< Upstream, based on cb57d15388f67c125a0191a0b3ef3a880a963356
+<<<<<<< HEAD
+C:\Workspaces\personal-project2\TestGit\test.dependency\src\test\java\com\test\dependency\Test3Test.java
+C:\Workspaces\personal-project2\TestGit\test.dependency\src\test\java\com\test\dependency\Test2.java
+C:\Workspaces\personal-project2\TestGit\test.dependency\src\test\java\com\test\dependency\Test1.java
+=======
+C:\Workspaces\personal-project2\test.dependency\src\test\java\com\test\dependency\Test1.java
+C:\Workspaces\personal-project2\test.dependency\src\test\java\com\test\dependency\Test2.java
+C:\Workspaces\personal-project2\test.dependency\src\test\java\com\test\dependency\Test3Test.java
+>>>>>>> 1e1c7a4... First release testdependency
+=======
+C:\Workspaces\personal-project2\TestGit\test.dependency\src\test\java\com\test\dependency\Test3Test.java
+C:\Workspaces\personal-project2\TestGit\test.dependency\src\test\java\com\test\dependency\Test2.java
+C:\Workspaces\personal-project2\TestGit\test.dependency\src\test\java\com\test\dependency\Test1.java
+>>>>>>> 7a4bf8f Second release
+>>>>>>> bc47bc1... Test final merge
