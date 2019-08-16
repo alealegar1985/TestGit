@@ -8,8 +8,8 @@ public class TestClass {
 	String master2;
 	String b1;String b2;String b3; String b4;
 	
-	private double summer(double a, double b) {
-		System.out.println(b);
+	public double summer(double a, double b) {
+		System.out.println(a+b);
 		return Calculator.sum(a,b);
 	}
 
