@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<<<<<<< HEAD
 <testsuite tests="2" failures="0" name="com.test.dependency.Test1" time="0.768" errors="0" skipped="0">
+=======
+<<<<<<< Upstream, based on cb57d15388f67c125a0191a0b3ef3a880a963356
+<<<<<<< HEAD
+<testsuite tests="2" failures="0" name="com.test.dependency.Test1" time="0.768" errors="0" skipped="0">
+=======
+<testsuite tests="2" failures="0" name="com.test.dependency.Test1" time="0.854" errors="0" skipped="0">
+>>>>>>> 1e1c7a4... First release testdependency
+=======
+<testsuite tests="2" failures="0" name="com.test.dependency.Test1" time="0.768" errors="0" skipped="0">
+>>>>>>> 7a4bf8f Second release
+>>>>>>> bc47bc1... Test final merge
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
     <property name="java.vm.version" value="25.211-b12"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
+<<<<<<< HEAD
     <property name="maven.multiModuleProjectDirectory" value="C:\Workspaces\personal-project2\TestGit\test.dependency"/>
+=======
+<<<<<<< Upstream, based on cb57d15388f67c125a0191a0b3ef3a880a963356
+<<<<<<< HEAD
+    <property name="maven.multiModuleProjectDirectory" value="C:\Workspaces\personal-project2\TestGit\test.dependency"/>
+=======
+    <property name="maven.multiModuleProjectDirectory" value="C:\Workspaces\personal-project2\test.dependency"/>
+>>>>>>> 1e1c7a4... First release testdependency
+=======
+    <property name="maven.multiModuleProjectDirectory" value="C:\Workspaces\personal-project2\TestGit\test.dependency"/>
+>>>>>>> 7a4bf8f Second release
+>>>>>>> bc47bc1... Test final merge
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +40,19 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+<<<<<<< HEAD
     <property name="user.dir" value="C:\Workspaces\personal-project2\TestGit\test.dependency"/>
+=======
+<<<<<<< Upstream, based on cb57d15388f67c125a0191a0b3ef3a880a963356
+<<<<<<< HEAD
+    <property name="user.dir" value="C:\Workspaces\personal-project2\TestGit\test.dependency"/>
+=======
+    <property name="user.dir" value="C:\Workspaces\personal-project2\test.dependency"/>
+>>>>>>> 1e1c7a4... First release testdependency
+=======
+    <property name="user.dir" value="C:\Workspaces\personal-project2\TestGit\test.dependency"/>
+>>>>>>> 7a4bf8f Second release
+>>>>>>> bc47bc1... Test final merge
     <property name="java.runtime.version" value="1.8.0_211-b12"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\endorsed"/>
@@ -65,6 +101,21 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
+<<<<<<< HEAD
   <testcase classname="com.test.dependency.Test1" name="test" time="0.004"/>
   <testcase classname="com.test.dependency.Test1" name="test4" time="0.764"/>
+=======
+<<<<<<< Upstream, based on cb57d15388f67c125a0191a0b3ef3a880a963356
+<<<<<<< HEAD
+  <testcase classname="com.test.dependency.Test1" name="test" time="0.004"/>
+  <testcase classname="com.test.dependency.Test1" name="test4" time="0.764"/>
+=======
+  <testcase classname="com.test.dependency.Test1" name="test" time="0.006"/>
+  <testcase classname="com.test.dependency.Test1" name="test4" time="0.848"/>
+>>>>>>> 1e1c7a4... First release testdependency
+=======
+  <testcase classname="com.test.dependency.Test1" name="test" time="0.004"/>
+  <testcase classname="com.test.dependency.Test1" name="test4" time="0.764"/>
+>>>>>>> 7a4bf8f Second release
+>>>>>>> bc47bc1... Test final merge
 </testsuite>
