@@ -25,7 +25,7 @@ public class Test2 {
 	
 	@Test
 	public void test3() {
-		assertEquals(2, Calculator.subtract(3, 2),0.5 );
+		assertEquals(2, Calculator.subtract(3, 1),0 );
 	}
 	
  
