@@ -1,16 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.test.dependency.Test1
 -------------------------------------------------------------------------------
-<<<<<<< HEAD
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.882 sec
-=======
-<<<<<<< Upstream, based on cb57d15388f67c125a0191a0b3ef3a880a963356
-<<<<<<< HEAD
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.882 sec
-=======
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.967 sec
->>>>>>> 1e1c7a4... First release testdependency
-=======
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.882 sec
->>>>>>> 7a4bf8f Second release
->>>>>>> bc47bc1... Test final merge
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.884 sec
